@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#060917"/>
+      <stop offset="0.45" stop-color="#172554"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="25%" r="60%">
+      <stop stop-color="#00d4ff" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1600" height="700" rx="48" fill="url(#bg)"/>
+  <rect width="1600" height="700" rx="48" fill="url(#glow)"/>
+  <g opacity=".13" stroke="#fff" stroke-width="3">
+    <path d="M0 120H1600 M0 240H1600 M0 360H1600 M0 480H1600 M0 600H1600"/>
+    <path d="M120 0V700 M260 0V700 M400 0V700 M540 0V700 M680 0V700 M820 0V700 M960 0V700 M1100 0V700 M1240 0V700 M1380 0V700"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="1010" y="140" width="390" height="320" rx="44" fill="#f8fafc"/>
+    <rect x="1045" y="178" width="320" height="190" rx="28" fill="#0f172a"/>
+    <text x="1205" y="292" text-anchor="middle" font-family="monospace" font-size="98" font-weight="900" fill="#f8fafc">L</text>
+    <circle cx="1100" cy="410" r="18" fill="#ff5c8a"/>
+    <circle cx="1160" cy="410" r="18" fill="#00d4ff"/>
+    <circle cx="1310" cy="410" r="24" fill="#ffd54f"/>
+  </g>
+  <g font-family="monospace" font-weight="900">
+    <text x="95" y="180" font-size="112" fill="#ffffff">LENGUARCADE</text>
+    <text x="100" y="250" font-size="38" fill="#dbeafe">La plataforma de juegos de Lengua</text>
+  </g>
+  <g font-family="Arial" font-weight="800" font-size="34" fill="#fff">
+    <rect x="105" y="340" width="220" height="68" rx="20" fill="#7c4dff" opacity=".95"/><text x="143" y="385">Ortografía</text>
+    <rect x="350" y="340" width="190" height="68" rx="20" fill="#00a7d6" opacity=".95"/><text x="392" y="385">Verbos</text>
+    <rect x="565" y="340" width="210" height="68" rx="20" fill="#ff5c8a" opacity=".95"/><text x="600" y="385">Escritura</text>
+    <rect x="800" y="340" width="170" height="68" rx="20" fill="#f59e0b" opacity=".95"/><text x="843" y="385">Poesía</text>
+  </g>
+  <g opacity=".9" fill="#facc15" font-family="monospace" font-size="42" font-weight="900">
+    <text x="118" y="515">XP</text><text x="220" y="515">LOGROS</text><text x="430" y="515">MISIONES</text><text x="690" y="515">PROGRESO</text>
+  </g>
+</svg>
