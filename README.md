@@ -4,7 +4,7 @@ Assets públicos para LenguArcade.
 
 ## Banners de juegos
 
-Los banners están en `assets/games/` y se pueden cargar desde Apps Script usando las URLs raw de GitHub.
+Los banners activos están en `assets/games/` y se cargan desde Apps Script usando las URLs raw de GitHub.
 
 Base URL:
 
@@ -15,15 +15,25 @@ https://raw.githubusercontent.com/pablogarciablancov/lenguarcade-assets/main/ass
 Archivos:
 
 ```text
-battlegrafia-banner.svg
-maniacgrafia-banner.svg
-narratoria-banner.svg
-versopolis-banner.svg
-scrabble-banner.svg
-conjuga-apuesta-banner.svg
-verb-battle-banner.svg
+battlegrafia-banner.jpg
+maniacgrafia-banner.jpg
+narratoria-banner.jpg
+versopolis-banner.jpg
+scrabble-banner.jpg
+conjuga-apuesta-banner.jpg
+verb-battle-banner.jpg
 ```
 
-## Nota
+Todos están optimizados a `1200x675` para las tarjetas del launcher.
 
-Estos banners son provisionales. Sirven para probar la integración visual. Más adelante se pueden sustituir por imágenes PNG/JPG generadas con IA o diseñadas manualmente, manteniendo el mismo nombre de archivo para no romper el launcher.
+## Marca
+
+Los recursos principales están en `assets/brand/`:
+
+```text
+lenguarcade-logo.png
+lenguarcade-favicon.png
+lenguarcade-hero-banner.jpg
+```
+
+El banner general está optimizado a `1600x700`. Los SVG anteriores se conservan como recursos heredados, pero las vistas actuales usan las imágenes PNG/JPG.
