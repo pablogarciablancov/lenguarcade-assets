@@ -37,3 +37,19 @@ lenguarcade-hero-banner.jpg
 ```
 
 El banner general está optimizado a `1600x700`. Los SVG anteriores se conservan como recursos heredados, pero las vistas actuales usan las imágenes PNG/JPG.
+
+## Avatares
+
+Los 16 personajes transparentes están en `assets/avatars/`:
+
+```text
+avatar-01.webp ... avatar-16.webp
+```
+
+Los 12 escenarios combinables están en `assets/avatar-backgrounds/`:
+
+```text
+background-01.webp ... background-12.webp
+```
+
+Los personajes están optimizados a `512x768` con transparencia y los fondos a `640x960`.
