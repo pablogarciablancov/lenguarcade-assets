@@ -22,9 +22,11 @@ versopolis-banner.jpg
 scrabble-banner.jpg
 conjuga-apuesta-banner.jpg
 verb-battle-banner.jpg
+rayuela-banner.webp
+entre-lineas-banner.webp
 ```
 
-Todos están optimizados a `1200x675` para las tarjetas del launcher.
+Los JPG históricos están optimizados a `1200x675`; Rayuela y Entre Líneas se sirven en WebP optimizado. Todos son recursos de producción para las tarjetas del launcher.
 
 ## Marca
 
