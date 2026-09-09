@@ -24,9 +24,10 @@ conjuga-apuesta-banner.jpg
 verb-battle-banner.jpg
 rayuela-banner.webp
 entre-lineas-banner.webp
+tower-defense-banner.svg
 ```
 
-Los JPG históricos están optimizados a `1200x675`; Rayuela y Entre Líneas se sirven en WebP optimizado. Todos son recursos de producción para las tarjetas del launcher.
+Los JPG históricos están optimizados a `1200x675`; Rayuela y Entre Líneas se sirven en WebP optimizado; Guardianes de la Biblioteca usa un SVG optimizado para su tarjeta del launcher. Todos son recursos de producción para las tarjetas del launcher.
 
 ## Marca
 
