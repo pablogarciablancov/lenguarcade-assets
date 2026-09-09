@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Guardianes de la Biblioteca</title><desc id="d">Banner de Guardianes de la Biblioteca para LenguArcade</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081424"/><stop offset=".55" stop-color="#17345b"/><stop offset="1" stop-color="#09121e"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe49a"/><stop offset=".45" stop-color="#f3bd4d"/><stop offset="1" stop-color="#a86513"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#86e9ff"/><stop offset="1" stop-color="#2e75dc"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="675" rx="38" fill="url(#bg)"/>
+<circle cx="915" cy="245" r="205" fill="#39a7ff" opacity=".12"/>
+<path d="M815 500V275h55v-70h54v70h50v-70h55v70h55v225z" fill="#17243a" stroke="url(#gold)" stroke-width="12"/>
+<path d="M844 500V342h212v158" fill="#243858" stroke="#f2bd4e" stroke-width="8"/>
+<path d="M915 500V399q0-68 65-68t65 68v101" fill="#0d1830" stroke="#74bfff" stroke-width="8"/>
+<path d="M936 188l44-91 44 91-44 44z" fill="url(#blue)" stroke="#b9f4ff" stroke-width="7" filter="url(#glow)"/>
+<path d="M150 145h498q28 0 28 28v84H122v-84q0-28 28-28z" fill="#42260f" stroke="#d49b3b" stroke-width="9"/>
+<text x="399" y="223" text-anchor="middle" font-family="Georgia,serif" font-size="70" font-weight="900" fill="url(#gold)" stroke="#5b2c07" stroke-width="3">GUARDIANES</text>
+<text x="399" y="302" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="900" fill="#fff2cb">DE LA BIBLIOTECA</text>
+<rect x="122" y="345" width="550" height="175" rx="22" fill="#0b1728" opacity=".9" stroke="#54789d" stroke-width="3"/>
+<text x="160" y="402" font-family="system-ui,sans-serif" font-size="25" font-weight="800" fill="#87d5ff">TOWER DEFENSE LINGÜÍSTICO</text>
+<text x="160" y="449" font-family="system-ui,sans-serif" font-size="28" font-weight="900" fill="#ffffff">Rompe escudos. Construye torres.</text>
+<text x="160" y="488" font-family="system-ui,sans-serif" font-size="25" fill="#d7e8fa">Defiende la lengua.</text>
+<g transform="translate(705 525)">
+<path d="M0 0q75-47 150 0q75-47 150 0v85q-75-47-150 0q-75-47-150 0z" fill="#f4e5b6" stroke="#a86c24" stroke-width="7"/>
+<path d="M150 0v85" stroke="#a86c24" stroke-width="7"/><path d="M23 27h98M23 47h98M179 27h98M179 47h98" stroke="#8a622f" stroke-width="5" opacity=".75"/>
+</g>
+</svg>
