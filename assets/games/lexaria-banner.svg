@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="t d">
+<title id="t">Lexaria</title><desc id="d">Academia fantástica con criaturas lingüísticas en una arena mágica.</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#071229"/><stop offset=".55" stop-color="#182f61"/><stop offset="1" stop-color="#3b2867"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#5be7ff" stop-opacity=".9"/><stop offset="1" stop-color="#5be7ff" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0a2"/><stop offset=".45" stop-color="#e7b84c"/><stop offset="1" stop-color="#9a5c12"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".45"/></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1280" height="720" fill="url(#sky)"/>
+<circle cx="650" cy="120" r="220" fill="url(#glow)" opacity=".42"/>
+<g fill="#0d1837" stroke="#4964a7" stroke-width="2" opacity=".95">
+ <path d="M0 390L90 330v-85h42v-76h40v76h42v82l100-62v-99h43v-91h40v91h43v110l112-58v-85h38v-64h36v64h38v85l108 60v-112h40v-96h38v96h40v106l120 70v-82h44v-72h38v72h44v132H0z"/>
+</g>
+<g stroke="#d4ad4c" stroke-width="4" fill="none" opacity=".7"><path d="M95 340h108M330 270h128M780 300h136M1035 330h110"/><path d="M638 160v175M560 245h156"/></g>
+<ellipse cx="640" cy="585" rx="430" ry="105" fill="#09112a" stroke="#c99b35" stroke-width="7"/>
+<ellipse cx="640" cy="585" rx="330" ry="75" fill="#10234d" stroke="#527cc6" stroke-width="3"/>
+<g stroke="#f1ce66" stroke-width="4" fill="none" opacity=".85"><circle cx="640" cy="585" r="54"/><path d="M310 585h660M640 510v150M405 535l470 100M405 635l470-100"/></g>
+<g filter="url(#shadow)">
+ <g transform="translate(205 355)"><path d="M0 160C20 52 82 0 151 31c41 18 60 61 48 103-13 47-61 90-132 112z" fill="#491415"/><path d="M24 144C25 62 78 33 127 48c-16 10-34 26-46 53 42-30 80-21 103 8-30 4-47 20-57 41 30-5 48 5 63 18-39 20-91 28-166 7z" fill="#ff5b1f"/><path d="M73 105l44-34 46 35-49 52z" fill="#eeb34a"/><circle cx="119" cy="112" r="8" fill="#fff3a0"/></g>
+ <g transform="translate(435 360)"><path d="M20 165l16-102 58-47 65 28 35 98-50 71-84 2z" fill="#374052" stroke="#9ccfff" stroke-width="5"/><path d="M61 83l38-43 37 34-28 53z" fill="#38bdf8"/><path d="M70 157l-22-38 31-25M144 151l28-37-32-30" stroke="#63e6ff" stroke-width="8"/><circle cx="105" cy="128" r="16" fill="#7df9ff"/></g>
+ <g transform="translate(680 370)"><path d="M0 163c48-101 119-125 190-67l-39 27c42 5 72 27 83 64-70 48-153 37-234-24z" fill="#171024"/><path d="M44 141c47-78 106-81 152-36l-54 19 45 22c-39 42-90 48-143 17z" fill="#6f35b9"/><path d="M85 116l30-19 28 18-29 24z" fill="#caa7ff"/><circle cx="116" cy="116" r="7" fill="#f6d5ff"/></g>
+ <g transform="translate(980 335)"><path d="M22 184c-22-85 8-143 72-158 61-14 111 23 121 83-29-13-56-12-81 3 23 12 38 31 47 58-44 37-98 44-159 14z" fill="#f8f4df"/><path d="M76 86l-36-42 54 17 27-50 15 55 57-14-44 42 40 41-55-13-26 50-14-56-57 13z" fill="#d7f4ff" stroke="#e6b85d" stroke-width="5"/><circle cx="120" cy="103" r="9" fill="#f8c860"/></g>
+</g>
+<g text-anchor="middle" filter="url(#shadow)"><text x="640" y="154" font-family="Georgia,serif" font-size="104" font-weight="700" fill="url(#gold)" stroke="#5f3b0c" stroke-width="3">LEXARIA</text><text x="640" y="205" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="7" fill="#e6f4ff">ACADEMIA DE CRIATURAS LINGÜÍSTICAS</text></g>
+</svg>
