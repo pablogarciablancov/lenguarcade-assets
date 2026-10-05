@@ -64,3 +64,7 @@ Dieciséis portadas nuevas en `assets/games/*-collection-v1.webp`, optimizadas a
 ## Variantes con título · 2026-10-05
 
 Dieciséis alternativas `assets/games/*-collection-v2.webp`, basadas en las portadas anteriores de Word Play y Guardianes de la Biblioteca. Nombre integrado, letras grandes con relieve y fantasía colorida. WebP a 1280×720, calidad 90. La colección v1 y el catálogo publicado no se modifican. Especificaciones: `assets/games/collection-v2-prompts.json`.
+
+## Colección diversa con títulos · 2026-10-05
+
+Dieciséis portadas `assets/games/*-collection-v3.webp` combinan la atmósfera de v1 con los títulos de v2. Cada juego tiene su propia escena, paleta y material de letras, manteniendo un acabado común. WebP a 1280×720, calidad 90. El catálogo añade el logo oficial de LenguArcade como etiqueta HTML/CSS para conservar su fidelidad y legibilidad. Las colecciones anteriores siguen disponibles. Especificaciones: `assets/games/collection-v3-prompts.json`.

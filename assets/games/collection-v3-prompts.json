@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "generator": "image_gen",
+  "style": "Use case: stylized-concept. Create ONE production horizontal 16:9 Spanish videogame catalogue cover. Reference image 1 is this game's FIRST collection: atmospheric scene, depth and own identity. Reference image 2 is this game's SECOND collection: readable in-image title and expressive game-cover polish. Blend their strengths, but the SPECIFIC SCENE below has priority. This third collection must be visibly diverse: do not default to the same gold title, blue medieval castle, open-book emblem or cheerful greenery. Uniformity comes only from a high-quality illustrated videogame finish, controlled bevel/outline on title, readability, rich materials and landscape proportions. Follow the per-game palette, title material and composition below; keep the title prominent but leave roughly half the image for its scene. Not a classroom worksheet. Title must match verbatim, with correct Spanish accents. No subtitle, tagline, watermark or invented brand mark. A REAL LenguArcade badge will be overlaid in HTML: keep a quiet dark patch at the TOP LEFT, approximately 16% image width by 7% height, clear of text and important subjects, but DO NOT draw a badge, logo or box there. Keep title and key subjects inside central 82% width to tolerate card cropping. ",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "type": "WebP",
+    "quality": 90
+  },
+  "branding": "Official logo applied by catalogue HTML/CSS; not generated into artwork.",
+  "games": [
+    {
+      "id": "battlegrafia",
+      "title": "BATTLEGRAFÍA",
+      "scene": "Epic ink-dragon encounter in rugged mountains, knight and mage in action. Emerald dragon, cyan spells, silver steel. Painterly adventure with expressive stylization. Title forged silver and cyan, low central placement. No cheerful academy castle.",
+      "file": "battlegrafia-collection-v3.webp",
+      "references": [
+        "battlegrafia-collection-v1.webp",
+        "battlegrafia-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "maniacgrafia",
+      "title": "MANIACGRAFÍA",
+      "scene": "Fast neon arcade chase through abstract cyberpunk letter lanes, purple ink monsters and magenta sparks. Deep indigo night, pink and electric violet. Tilted kinetic title, white-purple neon typography. No books, quills, fantasy castles or medieval town.",
+      "file": "maniacgrafia-collection-v3.webp",
+      "references": [
+        "maniacgrafia-collection-v1.webp",
+        "maniacgrafia-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "narratoria",
+      "title": "NARRATORIA",
+      "scene": "An immense open storybook spilling layered paper-cut worlds, paper airship, forest silhouettes, writer's quill. Warm parchment and terracotta, turquoise accents. Distinct layered editorial-fantasy illustration. Title sculpted parchment and copper at upper right. No blue-roof castle backdrop.",
+      "file": "narratoria-collection-v3.webp",
+      "references": [
+        "narratoria-collection-v1.webp",
+        "narratoria-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "versopolis",
+      "title": "VERSÓPOLIS",
+      "scene": "Moonlit poetic canal city, elegant bridges, violet ink ribbons and quill, starry sky. Violet, dusk rose and pale gold. Lyrical dreamlike composition, elegant sweeping violet-silver title. No academy, dragons or letter tiles.",
+      "file": "versopolis-collection-v3.webp",
+      "references": [
+        "versopolis-collection-v1.webp",
+        "versopolis-collection-v2.webp"
+      ],
+      "correction": "Add a clear acute accent over the first O in VERSÓPOLIS."
+    },
+    {
+      "id": "scrabble",
+      "title": "SCRABBLE",
+      "scene": "Close-up strategic word board and wooden letter tiles in an intimate atmospheric green game room, emerald gems. Rich wood, forest green, cream. Tactile tabletop composition, no city or castles. Title carved wood with emerald inset. Decorative tiles should have individual letters only, no malformed attempted words.",
+      "file": "scrabble-collection-v3.webp",
+      "references": [
+        "scrabble-collection-v1.webp",
+        "scrabble-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "conjuga_apuesta",
+      "title": "CONJUGA Y APUESTA",
+      "scene": "A dramatic fantasy tavern game table with three large dice, chips and contrasting possible choices. Burgundy, copper, warm amber. Focus on tactile strategy props, no castle, books or ink monsters. Title ruby and cream, stacked at upper right.",
+      "file": "conjuga-apuesta-collection-v3.webp",
+      "references": [
+        "conjuga-apuesta-collection-v1.webp",
+        "conjuga-apuesta-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "verb_battle",
+      "title": "BATALLA VERBAL",
+      "scene": "Knight, mage and archer facing an opposing team across a compact stone rune arena, magical cards and blue versus crimson spell paths. More mature stylized tactical fantasy. Title dark steel with icy blue edge, upper center. No white academy, book emblem or gold-and-blue banners.",
+      "file": "verb-battle-collection-v3.webp",
+      "references": [
+        "verb-battle-collection-v1.webp",
+        "verb-battle-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "rayuela",
+      "title": "RAYUELA",
+      "scene": "Surreal branching stepping-stone paths and three mysterious doors floating above swirling turquoise clouds, young traveler with compass. Teal, coral, soft gold. Whimsical imaginative choices, no castle or generic library. Title whimsical interlocking copper-teal forms at lower center.",
+      "file": "rayuela-collection-v3.webp",
+      "references": [
+        "rayuela-collection-v1.webp",
+        "rayuela-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "entre_lineas",
+      "title": "ENTRE LÍNEAS",
+      "scene": "Noir detective desk, enormous magnifying glass, evidence strings, rainy amber-lit city window, shadowed library. Navy, brass and sepia. Intelligent mystery rather than cheerful magic. Title brass and ivory, strong readable detective-poster typography. No creatures or castle.",
+      "file": "entre-lineas-collection-v3.webp",
+      "references": [
+        "entre-lineas-collection-v1.webp",
+        "entre-lineas-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "tower_defense",
+      "title": "GUARDIANES DE LA BIBLIOTECA",
+      "scene": "Bird's-eye forest tower-defense battlefield with winding path, three distinct defensive towers, enchanted library gate and ink enemies. Forest green, teal, violet projectiles. Stylized strategic game key art, no sprawling academy town. Title weathered stone and moss with warm gold trim, left-upper center.",
+      "file": "tower-defense-collection-v3.webp",
+      "references": [
+        "tower-defense-collection-v1.webp",
+        "tower-defense-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "word_play",
+      "title": "WORD PLAY",
+      "scene": "Old magical bookshop tabletop, giant open book, flying Spanish letter tiles and powerful upgrade cards, multicolored jewels. Warm amber, purple and cyan. Blend old Word Play's clear playful logo with first cover's depth. WORD warm gold, PLAY cyan, no castle vista, no characters.",
+      "file": "word-play-collection-v3.webp",
+      "references": [
+        "word-play-collection-v1.webp",
+        "word-play-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "tierras_de_tinta",
+      "title": "TIERRAS DE TINTA",
+      "scene": "Cloaked male adventurer carrying a glowing ink-quill blade, black ink chasm splitting a rugged wilderness, a golden portal and distant camp. Deep ink blue and burning amber. Epic moody fantasy adventure. Title cracked parchment and ember gold. No charming academy or toy-like smiling hero.",
+      "file": "tierras-de-tinta-collection-v3.webp",
+      "references": [
+        "tierras-de-tinta-collection-v1.webp",
+        "tierras-de-tinta-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "lexaria",
+      "title": "LEXARIA",
+      "scene": "Three charming collectible creatures on an academy battle board: blue crystal dragon, scholarly owl and leafy woodland creature. Cobalt and gold, restrained academy architecture behind. Polished stylized creature-collector art, title crystal blue with gold trim. Do not use giant book under title.",
+      "file": "lexaria-collection-v3.webp",
+      "references": [
+        "lexaria-collection-v1.webp",
+        "lexaria-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "lexitrama",
+      "title": "LEXITRAMA",
+      "scene": "Grand expedition atlas and compass in foreground with carved letter tiles, map paths toward lush forest, sandstone ruins and snowy peaks. Jade, cream and ochre. Discovery puzzle atmosphere, title carved ivory on an atlas-inspired plaque. No academy, creature team or town skyline.",
+      "file": "lexitrama-collection-v3.webp",
+      "references": [
+        "lexitrama-collection-v1.webp",
+        "lexitrama-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "lexoma",
+      "title": "FORJA",
+      "scene": "Powerful male fantasy smith hammering glowing letter metal on an anvil inside an industrial magical forge, upgrade cards and coins. Molten orange, black iron and steel cyan. Dramatic sparks and strong diagonal composition, title hammered black steel with molten-orange inner light. No castle vista, books or generic gold logo.",
+      "file": "lexoma-collection-v3.webp",
+      "references": [
+        "lexoma-collection-v1.webp",
+        "lexoma-collection-v2.webp"
+      ]
+    },
+    {
+      "id": "sopa_de_tinta",
+      "title": "SOPA DE TINTA",
+      "scene": "Intimate cozy magical cafe on a rainy night, teal coffee cup, wooden word-search puzzle, warm lamps and book shelves. Mint, amber and warm cream. Welcoming painterly cafe scene. Title cream and teal, soft rounded sculpted lettering over cafe sign. No castle skyline or heroic combat.",
+      "file": "sopa-de-tinta-collection-v3.webp",
+      "references": [
+        "sopa-de-tinta-collection-v1.webp",
+        "sopa-de-tinta-collection-v2.webp"
+      ]
+    }
+  ]
+}
