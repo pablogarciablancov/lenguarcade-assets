@@ -1,0 +1,108 @@
+{
+  "generator": "built-in image_gen",
+  "references": [
+    "word-play-banner-v2.webp",
+    "tower-defense-banner-v2.webp"
+  ],
+  "style": "Use case: stylized-concept. Create ONE final horizontal 16:9 videogame store cover for a cohesive Spanish educational game collection. Input image 1 is the PRIMARY STYLE REFERENCE, the older WORD PLAY cover: follow its bold chunky sculpted title, colorful polished cartoon-fantasy game art, magical books, tangible letter tiles, expressive shapes and friendly premium videogame identity. Input image 2 is a supporting reference for fantasy charm, title hierarchy and colorful environments, NOT a requirement to copy its pixel-art technique. Create a NEW cover matching this collection, not a copy of either scene. Hand-painted illustrative cartoon fantasy, confident outlines, lively saturated colors, warm inviting lights, beautiful magical materials, slightly stylized 3D-volume title lettering. Avoid photorealism, cinematic realism, generic movie-poster seriousness and tiny typography. The EXACT GAME TITLE specified below must be huge, beautifully integrated as the centerpiece, thick beveled gold/cream and accent-color letters with dark outline, extremely legible at 360px thumbnail width. Center it in the upper-middle half, keep 8% safe margins, allow two or three lines for long titles; scenes frame the title from below and sides. No extra tagline, subtitle, label, watermark, franchise logo or interface. Text spelling and Spanish accents must be exact. Game-defining props should remain visible and foregrounded; clear composition, do not clutter. ",
+  "format": "WebP 1280x720 quality 90",
+  "promptPattern": "style + Text (verbatim): \"<title>\". Scene: <scene>",
+  "games": [
+    {
+      "id": "battlegrafia",
+      "title": "BATTLEGRAFÍA",
+      "scene": "A brave knight and mage, playful ink dragon, stone castle, spell scrolls and scattered letter tiles; cyan and emerald.",
+      "file": "battlegrafia-collection-v2.webp"
+    },
+    {
+      "id": "maniacgrafia",
+      "title": "MANIACGRAFÍA",
+      "scene": "A fast playful arcade adventure with bouncing wooden letter tiles, ink blobs, lightning trails and purple magical corridors; violet and pink.",
+      "file": "maniacgrafia-collection-v2.webp"
+    },
+    {
+      "id": "narratoria",
+      "title": "NARRATORIA",
+      "scene": "A giant open storybook releasing a castle, forest, airship and little storyteller, feather quill and pages; amber and sapphire.",
+      "file": "narratoria-collection-v2.webp"
+    },
+    {
+      "id": "versopolis",
+      "title": "VERSÓPOLIS",
+      "scene": "A charming city of violet rooftops and bridges, quills, poetry parchment and rhythmic magical ink ribbons; violet and gold.",
+      "file": "versopolis-collection-v2.webp"
+    },
+    {
+      "id": "scrabble",
+      "title": "SCRABBLE",
+      "scene": "A wooden word board with intersecting tile words CASA and SOL, floating letters, green gems and an inviting fantasy tabletop; emerald and cream.",
+      "file": "scrabble-collection-v2.webp"
+    },
+    {
+      "id": "conjuga_apuesta",
+      "title": "CONJUGA Y APUESTA",
+      "scene": "A fantastic strategy table with colorful dice, golden chips, verb scrolls and magical branching choices; ruby and gold.",
+      "file": "conjuga-apuesta-collection-v2.webp"
+    },
+    {
+      "id": "verb_battle",
+      "title": "BATALLA VERBAL",
+      "scene": "Three masculine fantasy heroes: knight, mage and archer, magical spell cards, compact tactical battlefield and playful ink enemies; blue versus crimson.",
+      "file": "verb-battle-collection-v2.webp"
+    },
+    {
+      "id": "rayuela",
+      "title": "RAYUELA",
+      "scene": "A young adventurer on branching floating stepping stones, storybook, compass and three different portals for choices; turquoise and warm gold.",
+      "file": "rayuela-collection-v2.webp"
+    },
+    {
+      "id": "entre_lineas",
+      "title": "ENTRE LÍNEAS",
+      "scene": "A cozy detective library, enormous brass magnifying glass, clue documents, evidence threads and mysterious lamplit town; navy and brass.",
+      "file": "entre-lineas-collection-v2.webp"
+    },
+    {
+      "id": "tower_defense",
+      "title": "GUARDIANES DE LA BIBLIOTECA",
+      "scene": "An enchanted library castle, winding tower-defense path, blue and green magic towers, books and cute ink monsters; forest green, gold and blue. Maintain the charm of reference image 2.",
+      "file": "tower-defense-collection-v2.webp"
+    },
+    {
+      "id": "word_play",
+      "title": "WORD PLAY",
+      "scene": "Flying wooden tiles with Spanish letters Ñ A R E S T, enchanted open book, colorful gems and magical cards in a cozy fantasy bookshop. Use the original Word Play cover as the primary identity reference; gold WORD and cyan PLAY.",
+      "file": "word-play-collection-v2.webp"
+    },
+    {
+      "id": "tierras_de_tinta",
+      "title": "TIERRAS DE TINTA",
+      "scene": "A male ink-quill sword adventurer, fantastical land of lush forests, a book-shaped library castle, cozy camp and black ink creatures; amber and teal.",
+      "file": "tierras-de-tinta-collection-v2.webp"
+    },
+    {
+      "id": "lexaria",
+      "title": "LEXARIA",
+      "scene": "Collectible charming little blue dragon, scholarly owl and leafy woodland creature before a blue-and-gold academy, magical team board; cobalt and gold.",
+      "file": "lexaria-collection-v2.webp"
+    },
+    {
+      "id": "lexitrama",
+      "title": "LEXITRAMA",
+      "scene": "A grand exploration atlas with compass, wooden letter tiles, green forest, desert ruins and snow mountains, route lines; jade and parchment, clearly no creature academy.",
+      "file": "lexitrama-collection-v2.webp"
+    },
+    {
+      "id": "lexoma",
+      "title": "FORJA",
+      "scene": "A robust fantasy blacksmith hammering a glowing letter tile on an anvil, orange furnace, upgrade cards, golden coins and blue crystals; orange and cyan.",
+      "file": "lexoma-collection-v2.webp"
+    },
+    {
+      "id": "sopa_de_tinta",
+      "title": "SOPA DE TINTA",
+      "scene": "A cozy night-time magical cafe, steaming teal coffee cup, a wooden word-search letter grid, books and golden lamps, tiny ink sprites; mint and amber.",
+      "file": "sopa-de-tinta-collection-v2.webp"
+    }
+  ]
+}
