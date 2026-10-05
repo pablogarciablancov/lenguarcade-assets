@@ -56,3 +56,7 @@ background-01.webp ... background-12.webp
 ```
 
 Los personajes están optimizados a `512x768` con transparencia y los fondos a `640x960`.
+
+## Colección unificada 2026-10-05
+
+Dieciséis portadas nuevas en `assets/games/*-collection-v1.webp`, optimizadas a 1280×720. Ilustración de fantasía con luz cinematográfica y color propio por juego; títulos renderizados en la interfaz. Las rutas anteriores se conservan. Dirección artística y escenas: `assets/games/collection-v1-prompts.json`.
