@@ -60,3 +60,7 @@ Los personajes están optimizados a `512x768` con transparencia y los fondos a `
 ## Colección unificada 2026-10-05
 
 Dieciséis portadas nuevas en `assets/games/*-collection-v1.webp`, optimizadas a 1280×720. Ilustración de fantasía con luz cinematográfica y color propio por juego; títulos renderizados en la interfaz. Las rutas anteriores se conservan. Dirección artística y escenas: `assets/games/collection-v1-prompts.json`.
+
+## Variantes con título · 2026-10-05
+
+Dieciséis alternativas `assets/games/*-collection-v2.webp`, basadas en las portadas anteriores de Word Play y Guardianes de la Biblioteca. Nombre integrado, letras grandes con relieve y fantasía colorida. WebP a 1280×720, calidad 90. La colección v1 y el catálogo publicado no se modifican. Especificaciones: `assets/games/collection-v2-prompts.json`.
